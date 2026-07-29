@@ -6,15 +6,11 @@
   <a href="hdfhoussam18@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/httpx.houssam/" target="_blank">
+  <a href="https://www.instagram.com/dev.houssam/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/houssamhdf7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="46" height="30" alt="facebook logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="30" alt="linkedin logo"  />
-  <a href="https://www.twitch.tv/lilslayer0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="46" height="30" alt="twitch logo"  />
   </a>
   <a href="oldslayer001@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="46" height="30" alt="microsoft-outlook logo"  />
@@ -31,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SlayerDevv.SlayerDevv&"  />
+  <img src="[https://visitor-badge.laobi.icu/badge?page_id=SlayerDevv.SlayerDevv&](https://visitor-badge.laobi.icu/badge?page_id=houssamhadef&left_text=visitors)"  />
 </div>
 
 ###
